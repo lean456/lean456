@@ -7,4 +7,4 @@ I'm Leandro Blanco, I'm a student in technician 👨‍💻 who is passionate ab
 - 😄 Pronouns: he/him
 
 How to contact me🌎:  
-[![Linkedin Badge](https://img.shields.io/badge/-Leandro-Blanco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-daniel-blanco-martin-7051b1164//)]
+
