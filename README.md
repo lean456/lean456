@@ -8,3 +8,4 @@ I'm Leandro Blanco, I'm a student in technician 👨‍💻 who is passionate ab
 
 How to contact me🌎:  
 
+[![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Blanco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-daniel-blanco-martin-7051b1164/)](https://www.linkedin.com/in/leandro-daniel-blanco-martin-7051b1164/)
